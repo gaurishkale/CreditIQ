@@ -63,8 +63,8 @@ CreditIQ/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/loan-underwriting-ai.git
-cd loan-underwriting-ai
+git clone https://github.com/gaurishkale/CreditIQ.git
+cd CreditIQ
 ```
 
 ### 2. Create virtual environment
