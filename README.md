@@ -35,7 +35,7 @@ a **risk grade (A–F)**, and an **approval decision** — just like a real bank
 
 ---
 
-## 🖥️ App Screenshot
+## 🖥️ Screenshot
 
 <img width="1886" height="827" alt="output 1" src="https://github.com/user-attachments/assets/1a94fd51-60e6-4ff9-9714-4af4cddac4a8" />
 <img width="1861" height="530" alt="output 2" src="https://github.com/user-attachments/assets/46536a2f-0acc-4f9e-8d05-cfc712a96ef9" />
